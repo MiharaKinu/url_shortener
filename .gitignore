@@ -1,0 +1,11 @@
+# Ignore build directory
+/build
+
+# Ignore db
+db.sqlite
+
+# Dependency directories
+/vendor/
+
+# macOS specific files
+.DS_Store

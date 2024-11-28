@@ -1,0 +1,6 @@
+allowDomain:
+  - example.com
+expire: 3600
+host: https://example.com
+shortLength: 7
+port: 8088
